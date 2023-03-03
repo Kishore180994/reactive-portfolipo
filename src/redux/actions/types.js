@@ -1,0 +1,3 @@
+export const SET_HOVERED_REF = 'SET_HOVERED_REF';
+export const SET_CURSOR_HOVERED = 'SET_CURSOR_HOVERED';
+export const TOGGLE_THEME = 'TOGGLE_THEME';
